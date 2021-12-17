@@ -1,0 +1,16 @@
+{
+    "name": "UpdateSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:458396fad202746a6806787380bd81b3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
