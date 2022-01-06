@@ -2,7 +2,8 @@
     "name": "UpdateSystem",
     "rootNamespace": "",
     "references": [
-        "GUID:458396fad202746a6806787380bd81b3"
+        "GUID:458396fad202746a6806787380bd81b3",
+        "GUID:4dae3e52d9a4f46c1aec5224032ce73e"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

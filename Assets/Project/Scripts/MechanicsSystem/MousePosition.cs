@@ -1,13 +1,13 @@
 using UnityEngine;
 
-public class MouseToWorldPosition : MonoBehaviour
+public class MousePosition : MonoBehaviour
 {
 	[SerializeField] private Camera _mainCamera;
 	[SerializeField] private LayerMask _layer;
 
 	private const float MAX_DISTANCE = 100f;
 
-	private static MouseToWorldPosition _instance;
+	private static MousePosition _instance;
 
 	private void Awake() => _instance = this;
 
